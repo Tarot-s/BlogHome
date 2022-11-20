@@ -1,0 +1,46 @@
+{
+    "title": "Deomoの主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "Deomo,个人主页",
+    "author": "Deomo",
+    "logo_img": "./img/icon/logo.png",
+    "logo_text_1": "Deomo",
+    "logo_text_2": "cn",
+    "github": "omozero",
+    "qq": "2124522982",
+    "email": "2124522982@qq.com",
+    "bilibili": "bottom_user",
+    "facebook": "bottom_user",
+    "link_1": [
+        "https://deomo.cn/",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://tongji.baidu.com/",
+        "fa-solid fa-cloud",
+        "统计"
+    ],
+    "link_3": [
+        "https://y.qq.com/",
+        "fa-solid fa-music",
+        "音乐"
+    ],
+    "link_4": [
+        "https://blog.deomo.cn/",
+        "fa-solid fa-compass",
+        "起始页"
+    ],
+    "link_5": [
+        "https://deomo.cn/stars/",
+        "fa-solid fa-book-bookmark",
+        "网址集"
+    ],
+    "link_6": [
+        "https://blog.deomo.cn",
+        "fa-solid fa-flask",
+        "实验室"
+    ],
+    "Copyright_text": "Deomo",
+    "beian": "嘻嘻，还没有备案噢\uD83E\uDD2D"
+}
